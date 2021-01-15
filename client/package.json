@@ -19,6 +19,8 @@
     "@angular/platform-browser": "~10.2.0",
     "@angular/platform-browser-dynamic": "~10.2.0",
     "@angular/router": "~10.2.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@kolkov/ngx-gallery": "^1.2.3",
     "bootstrap": "4.1.1",
     "bootswatch": "^4.5.3",
     "express": "^4.17.1",
